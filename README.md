@@ -4,7 +4,7 @@ This is a Streamlit web app for translating English text to French using a fine-
 
 The app uses the Hugging Face Transformers library and a custom fine-tuned T5 model hosted on Hugging Face.
 
-🔗 Live Demo:
+🔗 Live Demo:https://translatorenglishtofrance-kavi.streamlit.app/
 
 
 Try the app online here:
@@ -32,7 +32,7 @@ Framework: Hugging Face Transformers + PyTorch.
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Kaviyarasu-06/translator_englishtofranc
 cd YOUR_REPO_NAME
 
 
